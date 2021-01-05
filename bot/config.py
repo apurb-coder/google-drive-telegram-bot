@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1566297575:AAEUmCACOxISWIYwMRHlL9_hmKTuDum17lA"
     APP_ID = "2399762"
     API_HASH = "670573df46576e12ac170135d1a20700"
-    DATABASE_URL = ""
+    DATABASE_URL = "https://ssh.cloud.google.com/projects/qwiklabs-gcp-01-aa66d6124bd1/zones/us-central1-a/instances/instance-1?useAdminProxy=true&authuser=0&hl=en_US&projectNumber=865981075411"
     SUDO_USERS = "1205180313" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
